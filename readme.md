@@ -1,10 +1,5 @@
-# m
-
-this is a super duper simple theme for hugo.
-I like to build it as a git pre-commit hook
+# jetons docs
 
 ```bash
 ln -s $PWD/.githook.sh .git/hooks/pre-commit
 ```
-
-[see it live https://korsakjakub.github.io/m/](https://korsakjakub.github.io/m/)
