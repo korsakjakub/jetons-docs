@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>m</title>
-    <link>https://korsakjakub.github.io/m/</link>
-    <description>Recent content on m</description>
+    <title>jetons docs</title>
+    <link>https://korsakjakub.github.io/jetons-docs/</link>
+    <description>Recent content on jetons docs</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://korsakjakub.github.io/m/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://korsakjakub.github.io/jetons-docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://korsakjakub.github.io/m/privacy_policy/</link>
+      <link>https://korsakjakub.github.io/jetons-docs/privacy_policy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://korsakjakub.github.io/m/privacy_policy/</guid>
+      <guid>https://korsakjakub.github.io/jetons-docs/privacy_policy/</guid>
       <description>&lt;h1 id=&#34;privacy-policy--jetons-poker-chip-manager&#34;&gt;Privacy Policy — Jetons: Poker Chip Manager&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Effective date:&lt;/strong&gt; [TBD — to be filled in before publishing]&#xA;&lt;strong&gt;Developer:&lt;/strong&gt; Jakub Korsak (independent developer)&#xA;&lt;strong&gt;Contact:&lt;/strong&gt; &lt;a href=&#34;mailto:jakub@korsak.xyz&#34;&gt;jakub@korsak.xyz&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-introduction&#34;&gt;1. Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Jetons is a local-network poker chip manager for Android. This privacy policy explains what information is collected when you use the app, how it is used, and what choices you have.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;2-information-we-collect&#34;&gt;2. Information We Collect&lt;/h2&gt;&#xA;&lt;h3 id=&#34;2a-data-stored-locally-on-your-device&#34;&gt;2a. Data stored locally on your device&lt;/h3&gt;&#xA;&lt;p&gt;The following information is stored only on the Android device running the app and is never transmitted to external servers:&lt;/p&gt;</description>
     </item>
   </channel>

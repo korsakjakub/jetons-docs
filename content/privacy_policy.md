@@ -1,8 +1,8 @@
 # Privacy Policy — Jetons: Poker Chip Manager
 
-**Effective date:** [TBD — to be filled in before publishing]
-**Developer:** Jakub Korsak (independent developer)
-**Contact:** jakub@korsak.xyz
+* **Effective date:** 08.03.2026
+* **Developer:** Jakub Korsak (independent developer)
+* **Contact:** korsakxyz@gmail.com
 
 ---
 
@@ -93,7 +93,7 @@ When cloud features are introduced, you will be able to request deletion of your
 
 ## 7. Children's Privacy
 
-Jetons is not directed at children under the age of 13. We do not knowingly collect personal information from children under 13. If you believe a child under 13 has provided personal information through the app, please contact us at jakub@korsak.xyz and we will take steps to delete such information.
+Jetons is not directed at children under the age of 13. We do not knowingly collect personal information from children under 13. If you believe a child under 13 has provided personal information through the app, please contact us at korsakxyz@gmail.com and we will take steps to delete such information.
 
 ---
 
@@ -114,4 +114,4 @@ We encourage you to review this policy periodically.
 If you have any questions or concerns about this privacy policy or the app's data practices, please contact:
 
 **Jakub Korsak**
-jakub@korsak.xyz
+korsakxyz@gmail.com
