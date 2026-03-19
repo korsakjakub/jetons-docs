@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jetons — Poker Chip Manager</title>
-    <link>http://localhost:1313/jetons-docs/</link>
+    <link>https://korsakjakub.github.io/jetons-docs/</link>
     <description>Recent content on Jetons — Poker Chip Manager</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/jetons-docs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://korsakjakub.github.io/jetons-docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:1313/jetons-docs/privacy_policy/</link>
+      <link>https://korsakjakub.github.io/jetons-docs/privacy_policy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/jetons-docs/privacy_policy/</guid>
+      <guid>https://korsakjakub.github.io/jetons-docs/privacy_policy/</guid>
       <description>&lt;h1 id=&#34;privacy-policy--jetons-poker-chip-manager&#34;&gt;Privacy Policy — Jetons: Poker Chip Manager&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Effective date:&lt;/strong&gt; 08.03.2026&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Developer:&lt;/strong&gt; Jakub Korsak (independent developer)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Contact:&lt;/strong&gt; &lt;a href=&#34;mailto:korsakxyz@gmail.com&#34;&gt;korsakxyz@gmail.com&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-introduction&#34;&gt;1. Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Jetons is a local-network poker chip manager for Android. This privacy policy explains what information is collected when you use the app, how it is used, and what choices you have.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;2-information-we-collect&#34;&gt;2. Information We Collect&lt;/h2&gt;&#xA;&lt;h3 id=&#34;2a-data-stored-locally-on-your-device&#34;&gt;2a. Data stored locally on your device&lt;/h3&gt;&#xA;&lt;p&gt;The following information is stored only on the Android device running the app and is never transmitted to external servers:&lt;/p&gt;</description>
     </item>
   </channel>

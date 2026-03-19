@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/jetons-docs/</loc>
+    <loc>https://korsakjakub.github.io/jetons-docs/</loc>
   </url><url>
-    <loc>http://localhost:1313/jetons-docs/privacy_policy/</loc>
+    <loc>https://korsakjakub.github.io/jetons-docs/privacy_policy/</loc>
   </url><url>
-    <loc>http://localhost:1313/jetons-docs/categories/</loc>
+    <loc>https://korsakjakub.github.io/jetons-docs/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/jetons-docs/tags/</loc>
+    <loc>https://korsakjakub.github.io/jetons-docs/tags/</loc>
   </url>
 </urlset>
